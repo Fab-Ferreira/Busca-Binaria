@@ -17,6 +17,7 @@ Após isso, será feito uma análise se o número da posição **m**, havendo as
 1. **Se o número da posição _m_ for igual ao valor do número digitado pelo usuário,** será retornado a posição **m** na tela;
 2. **Se o número da posição _m_ for maior que o valor do número digitado pelo usuário,** a variável **n** receberá _m - 1_;
 3. **Se o número da posição _m_ for menor que o valor do número digitado pelo usuário,** a variável **p** receberá _m + 1_.
+
 O cálculo será repetido diversas vezes até que o valor da posição **m** seja igual ao valor digitado pelo usuário. Caso não seja encontrado, será informado que o número não foi encontrado na lista
 &nbsp;
 
