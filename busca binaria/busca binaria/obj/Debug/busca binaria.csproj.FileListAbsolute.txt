@@ -1,0 +1,8 @@
+C:\Users\fabri\OneDrive\Documentos\SharpDevelop Projects\busca binaria\busca binaria\bin\Debug\busca binaria.exe.config
+C:\Users\fabri\OneDrive\Documentos\SharpDevelop Projects\busca binaria\busca binaria\bin\Debug\busca binaria.exe
+C:\Users\fabri\OneDrive\Documentos\SharpDevelop Projects\busca binaria\busca binaria\bin\Debug\busca binaria.pdb
+C:\Users\fabri\OneDrive\Documentos\SharpDevelop Projects\busca binaria\busca binaria\obj\Debug\busca binaria.csprojResolveAssemblyReference.cache
+C:\Users\fabri\OneDrive\Documentos\SharpDevelop Projects\busca binaria\busca binaria\obj\Debug\busca_binaria.MainForm.resources
+C:\Users\fabri\OneDrive\Documentos\SharpDevelop Projects\busca binaria\busca binaria\obj\Debug\busca binaria.csproj.GenerateResource.Cache
+C:\Users\fabri\OneDrive\Documentos\SharpDevelop Projects\busca binaria\busca binaria\obj\Debug\busca binaria.exe
+C:\Users\fabri\OneDrive\Documentos\SharpDevelop Projects\busca binaria\busca binaria\obj\Debug\busca binaria.pdb
