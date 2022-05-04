@@ -1,6 +1,6 @@
 # Busca-Binaria
 ## Introdução
-Olá! Este programa trata-se de um algoritmo de Busca Binária, na qual é feita uma pesquisa em uma lista de números na ordem crescente para localizar o número que deseja localizar. O programa a seguir foi feito no SharpDevelop utilizando o Windows Application.
+Olá! Este programa trata-se de um algoritmo de Busca Binária, na qual é feita uma pesquisa em uma lista de números na ordem crescente para localizar um determinado número que deseja. O programa a seguir foi feito no SharpDevelop utilizando o Windows Application.
 &nbsp;
 
 ## Funcionalidade do Programa
