@@ -13,7 +13,7 @@ Sendo:
 - **p** = posição do primeiro número da lista (inicialmente 0);
 - **n** = posição do último número da lista (variando de acordo com o tamanho dela).
 
-Após isso, será feito uma análise se o número da posição **m**, havendo as seguintes três possibilidades:
+Após isso, será feito uma análise comparando o número da posição **m** com o número digitado pelo usuário, havendo as seguintes três possibilidades:
 1. **Se o número da posição _m_ for igual ao valor do número digitado pelo usuário,** será retornado a posição **m** na tela;
 2. **Se o número da posição _m_ for maior que o valor do número digitado pelo usuário,** a variável **n** receberá _m - 1_;
 3. **Se o número da posição _m_ for menor que o valor do número digitado pelo usuário,** a variável **p** receberá _m + 1_.
