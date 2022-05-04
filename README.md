@@ -6,12 +6,12 @@ Olá! Este programa trata-se de um algoritmo de Busca Binária, na qual é feita
 ## Funcionalidade do Programa
 O programa ele busca o número digitado na TextBox em uma lista com 100 números em ordem crescente. Para isso, ao clicar no botão de Procurar, o programa fará o cálculo para saber qual número está no meio da lista, fazendo a seguinte conta:
 
-m = (p + n)/2
+**m = (p + n)/2**
 
 Sendo:
-m = posição do número do meio da lista;
-p = posição do primeiro número da lista (inicialmente 0);
-n = posição do último número da lista (variando de acordo com o tamanho dela).
+- **m** = posição do número do meio da lista;
+- **p** = posição do primeiro número da lista (inicialmente 0);
+- **n** = posição do último número da lista (variando de acordo com o tamanho dela).
 
 Após isso, será feito uma análise se o número da posição **m**, havendo as seguintes três possibilidades:
 1. **Se o número da posição _m_ for igual ao valor do número digitado pelo usuário,** será retornado a posição **m** na tela;
