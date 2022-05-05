@@ -4,9 +4,9 @@ Olá! Este programa trata-se de um algoritmo de Busca Binária, na qual é feita
 &nbsp;
 
 ## Funcionalidade do Programa
-O programa ele busca o número digitado na TextBox em uma lista com 100 números em ordem crescente. Para isso, ao clicar no botão de Procurar, o programa fará o cálculo para saber qual número está no meio da lista, fazendo a seguinte conta:
+O programa busca o número digitado na TextBox em uma lista com 100 números em ordem crescente. Para isso, ao clicar no botão de Procurar, o programa fará o cálculo para saber qual número está no meio da lista, fazendo a seguinte conta:
 
-**m = (p + n)/2**
+<p align=center> m = (p + n)/2 </p>
 
 Sendo:
 - **m** = posição do número do meio da lista;
