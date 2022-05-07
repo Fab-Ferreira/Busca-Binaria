@@ -22,7 +22,7 @@ O cálculo será repetido diversas vezes até que o valor da posição **m** sej
 &nbsp;
 
 ## Atenção!
-- Evite de clicar no botão com a TextBox sem texto;
+- Evite de clicar no botão com a TextBox sem texto, com letras ou com caracteres especiais;
 - O programa só permite o uso de números **inteiros**, isto é, números negativos e positivos;
 - Caso queira mudar os números da lista, apenas altere o texto dentro do arquivo txt "numeros", localizado na pasta *Bin\Debug*.
 
