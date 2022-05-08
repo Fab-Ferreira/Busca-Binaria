@@ -10,6 +10,8 @@ $$
 m = \frac{p + n}{2}
 $$
 
+$Y = \beta_0 + \beta_1 x + \epsilon$
+
 Sendo:
 - **m** = posição do número do meio da lista;
 - **p** = posição do primeiro número da lista (inicialmente 0);
